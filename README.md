@@ -58,7 +58,7 @@ A VirtualBox-based cybersecurity lab consisting of Kali Linux and Windows virtua
 - Linux and Windows environments
 - Troubleshooting
 
-[View Project →]🔗 Repository:https://github.com/jaya049/cybersecurity_home_lab.git
+[View Project →](https://github.com/jaya049/cybersecurity_home_lab.git)
 
 ## 2. Network Traffic Analysis with Wireshark
 
