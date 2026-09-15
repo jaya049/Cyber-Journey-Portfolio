@@ -39,8 +39,8 @@ I am building hands-on cybersecurity projects to acquire and showcase my skills.
 |---|---|---|
 | [Cybersecurity Home Lab](https://github.com/jaya049/cybersecurity_home_lab) | Lab infrastructure & networking | VirtualBox, Kali, Windows |
 | [Windows Security Hardening](https://github.com/jaya049/Windows-Security-Hardening) | System hardening | Windows 10 |
-| [Network Reconnaissance](https://github.com/jaya049/Network-Reconnaissance-nmap) | Host & service discovery | Nmap, Kali |
-| [Network Traffic Analysis](https://github.com/jaya049/wireshark-network-traffic-analysis) | Packet & protocol analysis | Wireshark, Kali |
+| [Network Vulnerability Assessment](https://github.com/jaya049/Network-Reconnaissance-nmap) | Network Reconnaissance, Vulnerability assessment, Risk Assessment | Nmap, Kali, Metasploitable |
+| [Network Traffic Analysis](https://github.com/jaya049/network-vulnerability-assessment.git) | Packet & protocol analysis | Wireshark, Kali |
 
 ---
 
